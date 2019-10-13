@@ -1,3 +1,4 @@
 read -p "String:" T
-echo ${T// /_}
-
+read -p "OldStr:" Old
+read -p "NewStr:" New
+echo ${T//$Old/$New}
