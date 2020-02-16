@@ -1,2 +1,2 @@
-# common-script
-My personal common convenient script.
+# My Common Scripts and Configs
+My personal common convenient scripts and Configs for various use.
